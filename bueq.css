@@ -29,7 +29,8 @@
 .dropdown li {
     /*border: 1px solid blue ;*/
     background: black;
-    width: 100%;
+    width: 100%;}
+    
 .dropdown a {
     display: block;
     padding: 0.2em 0.8em;
