@@ -34,8 +34,8 @@
 .dropdown a {
     display: block;
     padding: 0.2em 0.8em;
-   /* text-decoration: none;*/
-    background: black;
+    text-decoration: none;
+    /*background: black;*/
     color: #D62426;
     width: 100%;
     margin-bottom: 0px;
