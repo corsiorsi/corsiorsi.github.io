@@ -93,15 +93,20 @@ margin-bottom:50px;}
     padding: 0px;
     font-size: 1em;
 }
-
+.dropdown li {
+    /*border: 1px solid blue ;*/
+    background: black;
+    width: 100%;
+}
 .dropdown a {
     display: block;
     padding: 0.2em 0.8em;
     text-decoration: none;
-    background: black;
+    /*background: black;*/
     color: #D62426;
     width: 100%;
-    margin-bottom: 0px;
+    /*margin-bottom: 0px;*/
+    margin: 0px;
     float: top;
 }
 
